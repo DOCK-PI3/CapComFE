@@ -6,7 +6,7 @@
 ![CAPTURA1](https://github.com/DOCK-PI3/Mi-Previews-Themes/blob/master/CapComFE/Captura1.png)
 
 
-![CAPTURA2]https://github.com/DOCK-PI3/Mi-Previews-Themes/blob/master/CapComFE/Captura2.png)
+![CAPTURA2](https://github.com/DOCK-PI3/Mi-Previews-Themes/blob/master/CapComFE/Captura2.png)
 
 
 ![CAPTURA3](https://github.com/DOCK-PI3/Mi-Previews-Themes/blob/master/CapComFE/Captura3.png)
