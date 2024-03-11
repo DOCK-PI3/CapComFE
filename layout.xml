@@ -41,18 +41,12 @@
         <onGameExit       menuIndex="0"><set duration=".1"><animate type="alpha" to="1"/></set></oneGameExit>
     </reloadableImage>
 
-    <!-- FONDO ESTATICO SYSTEMS -->
+    <!-- FONDO ESTATICO SYSTEMAS -->
  <image src="images/FONDO_CAPCOM_2024_systemas-dark.png" alpha="0.7" x="0" y="0" width="1920" height="1080" xOrigin="left" yOrigin="top" layer="0">
         <onEnter>                       <set duration=".05"><animate type="alpha" to="1"/></set></onEnter>
         <onExit>                        <set duration=".05"><animate type="alpha" to="0"/></set></onExit>
         <onMenuEnter      menuIndex="0"><set duration=".05"><animate type="alpha" to="1"/></set></onMenuEnter>
         <onMenuExit       menuIndex="0"><set duration=".05"><animate type="alpha" to="0"/></set></onMenuExit>
-        <onMenuJumpEnter  menuIndex="0"><set duration=".05"><animate type="alpha" to="1"/></set></onMenuEnter>
-        <onMenuJumpExit   menuIndex="0"><set duration=".05"><animate type="alpha" to="0"/></set></onMenuExit>
-        <onPlaylistEnter  menuIndex="0"><set duration=".05"><animate type="alpha" to="1"/></set></onMenuEnter>
-        <onPlaylistExit   menuIndex="0"><set duration=".05"><animate type="alpha" to="0"/></set></onMenuExit>
-        <onHighlightEnter menuIndex="0"><set duration=".05"><animate type="alpha" to="1"/></set></onHighlightEnter>
-        <onHighlightExit  menuIndex="0"><set duration=".05"><animate type="alpha" to="0"/></set></onHighlightExit>
         <onGameEnter      menuIndex="0"><set duration=".05"><animate type="alpha" to="0"/></set></oneGameEnter>
         <onGameExit       menuIndex="0"><set duration=".05"><animate type="alpha" to="1"/></set></oneGameExit>
     </image>  
@@ -64,12 +58,6 @@
         <onExit      menuIndex="!0"><set duration=".05"><animate type="alpha" to="0"/></set></onExit>
         <onMenuEnter      menuIndex="!0"><set duration=".05"><animate type="alpha" to="1"/></set></onMenuEnter>
         <onMenuExit       menuIndex="!0"><set duration=".05"><animate type="alpha" to="0"/></set></onMenuExit>
-        <onMenuJumpEnter  menuIndex="!0"><set duration=".05"><animate type="alpha" to="1"/></set></onMenuEnter>
-        <onMenuJumpExit   menuIndex="!0"><set duration=".05"><animate type="alpha" to="0"/></set></onMenuExit>
-        <onPlaylistEnter  menuIndex="!0"><set duration=".05"><animate type="alpha" to="1"/></set></onMenuEnter>
-        <onPlaylistExit   menuIndex="!0"><set duration=".05"><animate type="alpha" to="0"/></set></onMenuExit>
-        <onHighlightEnter menuIndex="!0"><set duration=".05"><animate type="alpha" to="1"/></set></onHighlightEnter>
-        <onHighlightExit  menuIndex="!0"><set duration=".05"><animate type="alpha" to="0"/></set></onHighlightExit>
         <onGameEnter      menuIndex="!0"><set duration=".05"><animate type="alpha" to="0"/></set></oneGameEnter>
         <onGameExit       menuIndex="!0"><set duration=".05"><animate type="alpha" to="1"/></set></oneGameExit>
     </image>
