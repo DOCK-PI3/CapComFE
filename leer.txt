@@ -1,0 +1,70 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                            CapComFE  v.1
+                   para usar con retrofe 0.10.21 y superiores
+                           http://www.retrofe.nl/
+                  CapComFE Theme (C) 2024 Dockpi3 "mabedeep" EmulOS Team
+                         mail  dock.pi3@gmail.com
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#DIRECTORIO Y MEDIA USADA EN EL THEME "LAYOUT"
+
+
+-------------------------------------------------------------
+
+RetroFE\collections\NOMBRE DE COLECCION\medium_artwork\ : 
+
+-------------------------------------------------------------
+
+
+screentitle ---> Muestra FANART como fondo si existe.
+
+screenshot ---> Muestra captura del juego si no hay video, si el video existe no se muestra.
+
+logo ---> Logo del juego.
+
+medium_front ---> Cartucho del juego "support".
+
+artwork_front ---> Caja del juego,se muestra en el menu para seleccionar juego.
+
+videos ---> Videos cortos de los juegos.
+
+
+
+-------------------------------------------------------------
+RetroFE\collections\NOMBRE DE COLECCION\system_artwork\ : 
+-------------------------------------------------------------
+
+
+logo ---> Logo del sistema
+
+video ---> Video del sistema.
+
+device ---> Imagen del sistema o su control ,mando o joystick.
+
+
+
+-------------------------------------------------------------
+RetroFE\collections\_common\medium_artwork\ :
+-------------------------------------------------------------
+
+
+numberPlayers ---> Numero de jugadores.
+
+genre ---> Genero del juego.
+
+
+
+
+############################################################################
+
+Creditos: 
+
+############################################################################
+
+
+A toda la informacion descrita en ---> http://www.retrofe.nl/wiki/doku.php?id=layouts
+
+
+
+
