@@ -257,7 +257,7 @@
     </reloadableImage>
 
     <!-- IMAGEN FANART - EL SISTEMA LA BUSCA EN RetroFE\collections\NOMBRE DE COLECCION\medium_artwork\screentitle CON EL NOMBRE EJ: nombredejuego.png -->
-    <reloadableImage type="screentitle" alpha="0" x="-555" y="0" width="stretch" height="stretch" xOrigin="left" yOrigin="top" layer="0">
+    <reloadableImage type="screentitle" alpha="0" x="-598" y="0" width="stretch" height="stretch" xOrigin="left" yOrigin="top" layer="0">
         <onEnter>                       <set duration=".4"><animate type="alpha" to="1"/></set></onEnter>
         <onExit>                        <set duration=".04"><animate type="alpha" to="0"/></set></onExit>
         <onMenuEnter      menuIndex="!0"><set duration=".4"><animate type="alpha" to="1"/></set></onMenuEnter>
@@ -365,7 +365,7 @@
     </menu>
 
     <!-- VIDEO PARA SISTEMAS Y PARA CUANDO ENTRAS A LA COLECCION - VIDEO HIBRIDO - SI NO HAY VIDEO MUESTRA CAPTURA DE PANTALLA -->
-     <reloadableVideo imageType="screenshot" alpha="1" x="640" y="265" width="610" height="450" xOrigin="left" yOrigin="top" layer="3">
+     <reloadableVideo imageType="screenshot" alpha="1" x="640" y="265" width="680" height="440" xOrigin="left" yOrigin="top" layer="3">
         <onEnter>                  <set duration=".12"><animate type="alpha" to="1"/></set></onEnter>
         <onExit>                   <set duration=".06"><animate type="alpha" to="0"/></set></onExit>
         <onMenuEnter menuIndex="0"><set duration=".12"><animate type="alpha" to="1"/></set></onMenuEnter>
@@ -383,7 +383,7 @@
                 <animate type="x"         to="770"/>
                 <animate type="y"         to="225" />
                 <animate type="width"     to="860"/>
-                <animate type="height" to="710"/>
+                <animate type="height" to="680"/>
                 <animate type="layer" to="3"/>
             </set>
             <set duration=".08">
@@ -394,8 +394,8 @@
             <set duration=".01">
                 <animate type="x"         to="640"/>
                 <animate type="y"         to="265" />
-                <animate type="width"     to="610"/>
-                <animate type="height" to="450"/>
+                <animate type="width"     to="680"/>
+                <animate type="height" to="440"/>
                 <animate type="layer" to="3"/>
             </set>
         </onMenuExit> 
